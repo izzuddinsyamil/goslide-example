@@ -1,0 +1,30 @@
+Title of presentation
+23 July 2019
+
+M Izzuddin Syamil
+izzuddinsyamil1@gmail.com
+
+*  Slide 1 Title
+Test slide 1
+
+* Format your Slides
+Let's try *bold*.
+How do you like _italic_?
+`Program` `Font`
+_A_lot_of_italic_text_
+
+* Images
+.image gopher.jpeg 600 500
+
+* Display and highlit code
+.code hello.go
+Display Partial Code
+.code hello.go /^//START/,/^//END/ HL12
+
+* Run your Go code
+.play hello.go
+
+* Bullet Points
+- First bullet point
+- One more
+- Last one!
